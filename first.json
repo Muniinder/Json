@@ -1,0 +1,157 @@
+{
+	"Mobile Phones":[{
+				"Product_id": 1,
+				"item": "Samsung",
+				"Number_of_item_sold" : 5000,
+					"Models": 
+							[				{	"Name": "Samsung Galaxy A3",
+												"Spec_Id": "SG_1",
+												"Release Date": "2 jan 2017",
+												"Operating System": "Android 7.0",
+												"Number_of_item_sold" : 5000,
+												"Price": 15300
+											}, {
+												"Name": "Samsung Galaxy A5",
+												"Spec_Id": "SG_2",
+												"Release Date": "2 jan 2017",
+												"Operating System": "Android 7.0",
+												"Number_of_item_sold" : 5000,
+												"Price": 17900
+											}, {
+												"Name": "Samsung Galaxy A7",
+												"Spec_Id": "SG_3",
+												"Release Date": "2 jan 2017",
+												"Operating System": "Android 7.0",
+												"Number_of_item_sold" : 5000,
+												"Price": 20990
+											}, {
+												"Name": "Samsung Galaxy Tab S3",
+												"Spec_Id": "SG_4",
+												"Release Date": "1 jun 2017",
+												"Operating System": "Android 7.0",
+												"Number_of_item_sold" : 5000,
+												"Price": 47990
+											}, {
+												"Name": "Samsung Galaxy S8",
+												"Spec_Id": "SG_5",
+												"Release Date": "8 jun 2017",
+												"Operating System": "Android 7.0",
+												"Number_of_item_sold" : 5000,
+												"Price": 53900
+											}, {
+												"Name": "Samsung Galaxy A8",
+												"Spec_Id": "SG_6",
+												"Release Date": "1 dec 2017",
+												"Operating System": "Android 7.1.1",
+												"Number_of_item_sold" : 5000,
+												"Price": 50000
+											}
+							]
+									
+						}, {
+									"Product_Id": 2,
+									"item": "Apple",
+									"Number_of_item_sold" : 5000,
+									"Models": [{
+												"Name": "iPhone 6",
+												"Spec_Id": "A_1",
+												"Release Date": "19 Sept 2014",
+												"Operating System": "iOS 8.0",
+												"Number_of_item_sold" : 5000,
+												"Price": 20000
+											}, {
+												"Name": "iPhone 6S(plus)",
+												"Spec_Id": "A_2",
+												"Release Date": "25 Sept 2015",
+												"Operating System": "iOS 9.0",
+												"Number_of_item_sold" : 5000,
+												"Price": 25000
+											}, {
+												"Name": "iPhone 7(plus)",
+												"Spec_Id": "A_3",
+												"Release Date": "16 Sept 2016",
+												"Operating System": "iOS 10.0",
+												"Number_of_item_sold" : 5000,
+												"Price": 55999
+											}, {
+												"Name": "iPhone 8",
+												"Spec_Id": "A_4",
+												"Release Date": "22 Sept 2017",
+												"Operating System": "iOS 11.0",
+												"Number_of_item_sold" : 5000,
+												"Price": 72300
+											}, {
+												"Name": "iPhone X",
+												"Spec_Id": "A_5",
+												"Release Date": "3 Nov 2017",
+												"Operating System": "iOS 11.2",
+												"Number_of_item_sold" : 5000,
+												"Price": 100000
+											}]
+					}, {
+									"Product_id": 3,
+									"item": "Xiomi",
+									"Number_of_item_sold" : 5000,
+									"Models": [{
+												"Name": "MI 5",
+												"Spec_Id": "X_1",
+												"Release Date": "Feb 2016",
+												"Operating System": "Android 6.01",
+												"Number_of_item_sold" : 5000,
+												"Price": 15000
+											}, {
+												"Name": "MI 5S",
+												"Spec_Id": "X_2",
+												"Release Date": "Oct 2016",
+												"Operating System": "Android 6.01",
+												"Number_of_item_sold" : 5000,
+												"Price": 20000
+										}, {
+											"Name": "MI X",
+											"Spec_Id": "X_3",
+											"Release Date": "Sep 2017",
+											"Operating System": "Android 7.1",
+											"Number_of_item_sold" : 5000,
+											"Price": 25000
+										}, {
+											"Name": "MI 6",
+											"Spec_Id": "X_4",
+											"Release Date": "Feb 2016",
+											"Operating System": "Android 7.1",
+											"Number_of_item_sold" : 5000,
+											"Price": 30000
+										}]
+				}, {
+								"Product_id": 4,
+								"item": "Motorola",
+								"Models": [{
+											"Name": "Moto X",
+											"Spec_Id": "M_1",
+											"Release Date": "Jan 2016",
+											"Operating System": "Android 6.01",
+											"Number_of_item_sold" : 5000,
+											"Price": 20000
+										}, {
+											"Name": "Moto G",
+											"Spec_Id": "M_2",
+											"Release Date": "Jun 2016",
+											"Operating System": "Android 6.01",
+											"Number_of_item_sold" : 5000,
+											"Price": 25000
+										}, {
+											"Name": "Moto E",
+											"Spec_Id": "M_3",
+											"Release Date": "Oct 2016",
+											"Operating System": "Android 6.01",
+											"Number_of_item_sold" : 5000,
+											"Price": 30000
+										}, {
+											"Name": "Moto X",
+											"Spec_Id": "M_1",
+											"Release Date": "Jan 2017",
+											"Operating System": "Android 7.0",
+											"Number_of_item_sold" : 5000,
+											"Price": 40000
+										}]
+				}]
+			}
